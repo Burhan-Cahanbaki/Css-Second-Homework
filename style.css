@@ -1,0 +1,59 @@
+
+/*Header start*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    width: 50%;
+}
+
+div.box{
+    background-color: whitesmoke;
+    margin:0 10px;
+    padding: 5px;
+    
+}
+.head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+div.wrapper{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+input[type="text"]{
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+div.box1{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 5px;
+}
+table td{
+    border: 1px solid gray;
+}
+.table{
+    width: 100%;
+    margin:0 10px 0 10px;
+    background-color: #fff;
+}
+input{
+    margin: 0;
+    
+}
